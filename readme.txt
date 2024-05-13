@@ -1,5 +1,5 @@
 === Hizzle Forms ===
-Contributors: picocodes, lewisushindi
+Contributors: hizzlewp, lewisushindi
 Tags: contact, form, appointment, feedback, newsletter
 Donate link: https://noptin.com/products/?utm_source=wp-repo&utm_medium=donate&utm_campaign=readme
 Requires at least: 6.0
